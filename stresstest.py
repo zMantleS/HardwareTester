@@ -9,4 +9,4 @@ match prompt:
     case 4:
         print("CPU stress test")
     case 5:
-        print("MySQL stress test")
+        print("MySQL stress testt")
